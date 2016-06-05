@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DeApAssignment01W02</string>
+
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción del Contacto</string>
+    <string name="boton_siguiente">Siguiente</string>
+
+    <string name="titulo_confirmar">Confirmar Datos</string>
+    <string name="letrero_nombre_confirmacion">Nombre:</string>
+    <string name="nombre_confirmacion">Lorena Hernández</string>
+    <string name="letrero_fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="fecha_nacimiento">12 / 12 / 1988</string>
+    <string name="letrero_telefono_confirmacion">Teléfono:</string>
+    <string name="telefono_confirmacion">55553333</string>
+    <string name="letrero_email_confirmacion">Email:</string>
+    <string name="email_confirmacion">lorena@gmail.com</string>
+    <string name="letrero_descripcion_confirmacion">Descripción:</string>
+    <string name="descripcion_confirmacion">Restaurant comida italiana</string>
+    <string name="boton_editar">Editar Datos</string>
+
+
+</resources>

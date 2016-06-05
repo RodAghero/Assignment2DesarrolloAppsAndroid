@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="distancia_boton_siguiente">120dp</dimen>
+    <dimen name="distancia_data_picker">70dp</dimen>
+    <dimen name="distancia_TIL">50dp</dimen>
+
+    <dimen name="distancia_texto_confirmacion">20dp</dimen>
+    <dimen name="texto_titulo_confirmacion">30dp</dimen>
+    <dimen name="distancia_titulo_confirmacion_left">60dp</dimen>
+    <dimen name="texto_TV">20dp</dimen>
+    <dimen name="distancia_TV_top">20dp</dimen>
+    <dimen name="distancia_letreros_TV_left">10dp</dimen>
+    <dimen name="distancia_boton_editar">100dp</dimen>
+    <dimen name="texto_botones">20dp</dimen>
+
+
+</resources>
